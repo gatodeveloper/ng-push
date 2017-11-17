@@ -21,7 +21,7 @@
   "jsnext:main": "ng-push.js",
   "typings": "ng-push.d.ts",
   "peerDependencies": {
-    "@angular/core": "^5.0.0",
+    "@angular/core": "^4.0.0",
     "rxjs": "^5.5.0",
     "zone.js": "^0.8.4"
   }
